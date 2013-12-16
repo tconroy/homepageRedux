@@ -1,0 +1,91 @@
+{
+    "gallery": 
+    {
+        "1":
+        {
+            "href": "http://fancyapps.com/fancybox/demo/1_b.jpg",
+            "title": "<center>This is where a longer description would go. Possibly two to three sentences, describing the project in more detail. <br> <a href=''>link to project site</a></center>"
+        },
+        "2":
+        {
+            "href": "http://fancyapps.com/fancybox/demo/2_b.jpg",
+            "title": "<center>This is where a longer description would go. Possibly two to three sentences, describing the project in more detail. <br> <a href=''>link to project site</a></center>"
+        },
+        "3":
+        {
+            "href": "http://fancyapps.com/fancybox/demo/3_b.jpg",
+            "title": "<center>This is where a longer description would go. Possibly two to three sentences, describing the project in more detail. <br> <a href=''>link to project site</a></center>"
+        }
+    },
+    
+    "gallery2": 
+    {
+        "1": 
+        {
+            "href": "http://fancyapps.com/fancybox/demo/4_b.jpg",
+            "title": "<center>This is where a longer description would go. Possibly two to three sentences, describing the project in more detail. <br> <a href=''>link to project site</a></center>"
+        },
+        "2": 
+        {
+            "href": "http://fancyapps.com/fancybox/demo/5_b.jpg",
+            "title": "<center>This is where a longer description would go. Possibly two to three sentences, describing the project in more detail. <br> <a href=''>link to project site</a></center>"
+        },
+        "3": 
+        {
+            "href": "http://farm4.staticflickr.com/3712/9032543579_1217e6566b_b.jpg",
+            "title": "<center>This is where a longer description would go. Possibly two to three sentences, describing the project in more detail. <br> <a href=''>link to project site</a></center>"
+        },
+        "4":
+        {
+            "href": "http://farm4.staticflickr.com/3818/9036037912_83576fe5ab_b.jpg",
+            "title": "<center>This is where a longer description would go. Possibly two to three sentences, describing the project in more detail. <br> <a href=''>link to project site</a></center>"
+        },
+        "5":
+        {
+            "href": "http://farm8.staticflickr.com/7412/8732133694_0c7e400022_b.jpg",
+            "title": "<center>This is where a longer description would go. Possibly two to three sentences, describing the project in more detail. <br> <a href=''>link to project site</a></center>"
+        }
+    },
+    
+    "gallery3": 
+    {
+        "1":
+        {
+            "href": "http://farm6.staticflickr.com/5471/9036958611_fa1bb7f827_b.jpg",
+            "title": "<center>This is where a longer description would go. Possibly two to three sentences, describing the project in more detail. <br> <a href=''>link to project site</a></center>"
+        },
+        "2":
+        {
+            "href": "http://farm3.staticflickr.com/2870/8985207189_01ea27882d_b.jpg",
+            "title": "<center>This is where a longer description would go. Possibly two to three sentences, describing the project in more detail. <br> <a href=''>link to project site</a></center>"
+        },
+        "3":
+        {
+            "href": "http://farm9.staticflickr.com/8522/8478415115_152c6f5e55_b.jpg",
+            "title": "<center>This is where a longer description would go. Possibly two to three sentences, describing the project in more detail. <br> <a href=''>link to project site</a></center>"
+        }
+    },
+    
+    "gallery4": 
+    {
+            
+        "1":
+        {
+            "href": "http://farm6.staticflickr.com/5471/9036958611_fa1bb7f827_b.jpg",
+            "title": "<center>This is where a longer description would go. Possibly two to three sentences, describing the project in more detail. <br> <a href=''>link to project site</a></center>"
+        },
+        
+        "2":
+        {
+            "href": "http://farm3.staticflickr.com/2870/8985207189_01ea27882d_b.jpg",
+            "title": "<center>This is where a longer description would go. Possibly two to three sentences, describing the project in more detail. <br> <a href=''>link to project site</a></center>"
+        },
+        
+        "3":
+        {
+            "href": "http://farm9.staticflickr.com/8522/8478415115_152c6f5e55_b.jpg",
+            "title": "<center>This is where a longer description would go. Possibly two to three sentences, describing the project in more detail. <br> <a href=''>link to project site</a></center>"
+        }
+        
+    }
+}
